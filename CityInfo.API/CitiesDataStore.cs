@@ -32,7 +32,7 @@ namespace CityInfo.API
                         {
                             Id = 2,
                             Name = "Empire State Building",
-                            Description = "That big tower."
+                            Description = "That big big tower."
                         },
                     }
                 },
