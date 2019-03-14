@@ -26,7 +26,7 @@ namespace CityInfo.API
                         {
                             Id = 1,
                             Name = "Central Park",
-                            Description = "That big park."
+                            Description = "That big park with the zoo."
                         },
                         new PointOfInterestDto()
                         {
